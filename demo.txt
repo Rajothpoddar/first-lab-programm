@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 line1: hello
+=======
+Line1: Hello
+Line2: feature-edit
+line2: feature edit
+>>>>>>> feature-edit
